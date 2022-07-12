@@ -57,3 +57,9 @@ First five days from each Moon period and last days from each Moon period (after
 ## CONCLUSION
 
 **The key takeaway of this study is to add the Moon phases sampling period to the well-known sampling periods and mix-match them to obtain a better hybrid model.**
+
+---
+
+**Paper** (https://arxiv.org/abs/2112.15426)
+
+**WWW** (http://www.particlerobots.com/luismateos/lunatic/index.html)
