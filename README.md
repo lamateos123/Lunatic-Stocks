@@ -42,17 +42,17 @@ DOW 1992/1/6 to  2021/2/26 by weekday.
 Another way to sample the stock market is by the Moon phases. This sampling is not regular as the Moon's period are inconsistent if matching to the solar calendar. Thus, by finding the best and worst sampling points of the Moon phases to the stock market data, we have another interesting metric to analyze it.
 
 ![image](https://user-images.githubusercontent.com/94204361/178409507-0a682091-ff1c-462b-81dc-3aa04fbc0971.png)
-DOW stock market since 1992 to 2021 by moon phase.
+DOW stock market since 1992 to 2022 by moon phase.
 
 ![image](https://user-images.githubusercontent.com/94204361/178409595-44d304b5-e1a5-4b14-9c2f-bd3fb76a214e.png)
-DOW stock market since 1992 to 2021 by moon phase.
+DOW stock market since 1992 to 2022 by moon phase.
 
 A simple analysis to group days after each period leads to an interesting insight. If taking only the first 5 days from each period reveals the best earnings (highest points)
 
 Whereas, if taking the days after the fifth day from each period leads to near zero or negative points in all the Moon periods.
 
 ![image](https://user-images.githubusercontent.com/94204361/178409828-40b612a9-9b27-4c2f-872e-006680b0a3d0.png)
-First five days from each Moon period and last days from each Moon period (after the 5th day of the period).
+First five days from each Moon period and last days from each Moon period (after the 5th day of the period) from DOW stock market since 1992 to 2022.
 
 ## CONCLUSION
 
